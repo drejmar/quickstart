@@ -1,3 +1,5 @@
+http://helloworld-singleton.apps.drejmar.com/wildfly-helloworld-singleton/
+
 helloworld-singleton: Helloworld Using a Singleton EJB
 ======================================================
 Author: Serge Pagop  

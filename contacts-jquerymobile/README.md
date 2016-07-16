@@ -1,3 +1,5 @@
+http://contacts-jquerymobile.apps.drejmar.com/
+
 contacts-jquerymobile: CRUD Example Using HTML5, jQuery Mobile and JAX-RS
 ======================================================================
 Author: Joshua Wilson  

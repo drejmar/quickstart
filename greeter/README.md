@@ -1,3 +1,5 @@
+http://greeter.apps.drejmar.com/wildfly-greeter/greet.xhtml
+
 greeter: Demonstrates CDI, JPA, JTA, EJB, and JSF
 ========================
 Author: Pete Muir  

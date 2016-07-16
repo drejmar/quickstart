@@ -1,3 +1,5 @@
+http://helloworld-rs.apps.drejmar.com/
+
 helloworld-rs: Helloworld Using JAX-RS (Java API for RESTful Web Services)
 ==========================================================================
 Author: Gustavo A. Brey, Gaston Coco  
